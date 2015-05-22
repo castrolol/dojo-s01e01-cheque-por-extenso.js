@@ -1,0 +1,25 @@
+{
+  "name": "cheque-por-extenso",
+  "version": "1.0.0",
+  "description": "Dojo \"Cheque-por-extenso\" DevMT",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/castrolol/dojo-s01e01-cheque-por-extenso.js"
+  },
+  "author": "castrolol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castrolol/dojo-s01e01-cheque-por-extenso.js/issues"
+  },
+  "homepage": "https://github.com/castrolol/dojo-s01e01-cheque-por-extenso.js",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.1.0",
+    "gulp-plumber": "^1.0.1"
+  }
+}
